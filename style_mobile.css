@@ -1,0 +1,50 @@
+@media only screen and (max-width:46.1875em){
+    *{
+        background:rgb(255, 238, 238);
+    }
+    #input_main{
+        text-align: center;
+        height:51px;
+        font-size: 19px;
+        
+    }
+    #search_btn{
+        font-style: 18px    ;
+        height:51px;
+        font-size: 19px;
+    }
+    .main_search{
+        margin-top: 20%;
+    }
+    #close_btn{
+        font-size: 25px;
+        margin-left: 32px;
+        
+    }
+    #close_btn:hover{
+        background-color: rgb(255, 44, 44);
+        color: antiquewhite;
+
+    }
+    .std{
+        border: 1px solid rgb(255, 169, 71);
+        margin-left: -40px;
+    }
+    #student{
+        list-style-type: none !important;
+
+    }
+    .std>.content{
+        margin-left: 12px;
+    }
+    #show_all_list:hover{
+        color:rgb(255, 44, 44);
+        background-color: rgb(247, 243, 12);
+
+
+    }
+    
+
+
+
+}
